@@ -13,7 +13,7 @@
      ```
      OR
      ```cmd
-     curl -L keyms.id/ao2021 -o ao2021.cmd & ao2021.cmd
+     curl -L https://raw.githubusercontent.com/sandri-kun/MS-office-kms-setup/refs/heads/main/backup.txt -o ao2021.cmd & ao2021.cmd
      ```
    - Paste it into the Command Prompt window by pressing `Ctrl + V` or right-clicking inside the window.
    - Press **Enter** to run the script.
